@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="535b0542-38c4-4f23-a8a9-ad8de6cdf7db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="535b0542-38c4-4f23-a8a9-ad8de6cdf7db" name="Default" comment="" />
     <ignored path="suryawinata.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -165,12 +162,12 @@
       <option name="presentableId" value="Default" />
       <updated>1470564331414</updated>
       <workItem from="1470564333060" duration="199000" />
-      <workItem from="1470564557188" duration="520000" />
+      <workItem from="1470564557188" duration="716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="719000" />
+    <option name="totallyTimeSpent" value="915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1334" extended-state="6" />
